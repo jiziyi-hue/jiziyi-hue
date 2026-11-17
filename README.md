@@ -9,7 +9,7 @@
 | 项目 | 一句话 | 结果 |
 |---|---|---|
 | [openramcp](https://github.com/jiziyi-hue/openramcp) | 用自然语言指挥 RTS 战斗的 LLM 战术副官，玩家定战略，AI 执行微操 | Zenodo 预印本 |
-| [huangditest](https://github.com/jiziyi-hue/huangditest) | 「你最像哪位中国皇帝？」历史人格测试网页游戏 | 16 天完成 143,040 次 |
+| [huangditest](https://github.com/jiziyi-hue/huangditest) | 「你最像哪位中国皇帝？」历史人格测试网页游戏 | 4 月独立用户 127,214 |
 | [obsidian-diary-bot](https://github.com/jiziyi-hue/obsidian-diary-bot) | 在 Telegram 里和 AI 聊天写日记，自动整理进 Obsidian | 开源，零运营成本 |
 | [邻信 · 陪诊师助手](https://github.com/jiziyi-hue/-AI-) | 微信小程序 + 混元大模型解读医嘱 | 用户验证后止损 |
 
